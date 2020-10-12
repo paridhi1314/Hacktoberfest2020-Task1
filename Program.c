@@ -6,7 +6,7 @@ int main()
     int age;
     printf("Welcome to Hacktoberfest 2020\n");
     printf("Enter your name : ");//Get User name
-    scanf("%d",&name);
+    scanf("%c",&name);
     printf("Enter your Country of Residance : ");//Get user country
     scanf("%s",&country);
     printf("Enter your Age : ");//Get user Age
